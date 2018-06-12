@@ -18,8 +18,7 @@ import { HomePage } from '../pages/home/home';
     ResetarSenhaPage,
     SlidesPage,
     CriarContaPage,
-
-    HomePage
+    HomePage,
   ],
   imports: [
     BrowserModule,
@@ -32,7 +31,7 @@ import { HomePage } from '../pages/home/home';
     CriarContaPage,
     ResetarSenhaPage,
     SlidesPage,
-    HomePage
+    HomePage,
   ],
   providers: [
     StatusBar,

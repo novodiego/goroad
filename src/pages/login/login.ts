@@ -16,6 +16,7 @@ export class LoginPage {
     this.navCtrl.push(HomePage);
   }
 
+  
   btnCriarConta(){
     this.navCtrl.push(CriarContaPage);
   }
